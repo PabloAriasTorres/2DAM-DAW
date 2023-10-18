@@ -1,0 +1,15 @@
+D:\Visual Studio\HundirLaFlota\bin\Debug\net6.0\HundirLaFlota.exe
+D:\Visual Studio\HundirLaFlota\bin\Debug\net6.0\HundirLaFlota.deps.json
+D:\Visual Studio\HundirLaFlota\bin\Debug\net6.0\HundirLaFlota.runtimeconfig.json
+D:\Visual Studio\HundirLaFlota\bin\Debug\net6.0\HundirLaFlota.dll
+D:\Visual Studio\HundirLaFlota\bin\Debug\net6.0\HundirLaFlota.pdb
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.csproj.AssemblyReference.cache
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.AssemblyInfoInputs.cache
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.AssemblyInfo.cs
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.csproj.CoreCompileInputs.cache
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.dll
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\refint\HundirLaFlota.dll
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.pdb
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\HundirLaFlota.genruntimeconfig.cache
+D:\Visual Studio\HundirLaFlota\obj\Debug\net6.0\ref\HundirLaFlota.dll
